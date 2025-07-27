@@ -1,0 +1,12 @@
+bash sim/task_train_sh/task0.sh
+bash sim/task_train_sh/task1.sh
+bash sim/task_train_sh/task2.sh
+bash sim/task_train_sh/task3.sh
+bash sim/task_train_sh/task4.sh
+bash sim/task_train_sh/task5.sh
+bash sim/task_train_sh/task6.sh
+bash sim/task_train_sh/task7.sh
+bash sim/task_train_sh/task8.sh
+bash sim/task_train_sh/task9.sh
+bash sim/task_train_sh/task10.sh
+bash sim/task_train_sh/task11.sh
